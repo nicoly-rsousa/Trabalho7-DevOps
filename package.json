@@ -1,0 +1,11 @@
+{
+  "name": "trabalho4-devops",
+  "private": true,
+  "scripts": {
+    "lint": "htmlhint \"index.html\"",
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.6.3"
+  }
+}
